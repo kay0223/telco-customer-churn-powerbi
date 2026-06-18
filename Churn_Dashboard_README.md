@@ -15,7 +15,7 @@ Customer churn is one of the most important profitability metrics for telecom pr
 
 ## My contribution
 
-A five-person group project. **I built the core analytical components:**
+A three-person group project. **I built the core analytical components:**
 
 - **The 3-page Power BI dashboard** — executive overview, churn segmentation, and detail views, with KPIs, slicers and cross-filtering for interactive OLAP exploration.
 - **Data preparation & transformation** — type fixes (e.g. `TotalCharges`), handling missing/invalid records, tenure binning, and calculated measures (churn rate, average monthly charges, estimated revenue at risk, tenure band).
