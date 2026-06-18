@@ -28,6 +28,7 @@ Teammates contributed the business context, OLAP technology evaluation, and reco
 <!-- Add screenshots of each dashboard page to /docs and update paths -->
 ![Executive overview](docs/01_executive_overview.png)
 ![Churn segmentation](docs/02_churn_segmentation.png)
+![Churn segmentation](docs/03_tenure_lifecycle.png)
 
 > *Built on the public Telco Customer Churn dataset — no proprietary or personal data.*
 
@@ -69,5 +70,5 @@ OLAP operations (slicing, dicing, drill-down, roll-up) · star-schema thinking (
 
 ## Author
 
-**Kay Jiang** · [kay0223@gmail.com](mailto:kay0223@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kay-jiang-10306480/)
-Master of Data Science (AI), Sydney Polytechnic Institute.
+**Kay Jiang** · [kay0223@gmail.com](mailto:kay0223@gmail.com) 
+Master of Data Science (AI).
