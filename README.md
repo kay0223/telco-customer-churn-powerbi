@@ -56,7 +56,6 @@ Teammates contributed the business context, OLAP technology evaluation, and reco
 .
 ├── docs/                         Dashboard screenshots (one per page)
 ├── Telco_Churn_Dashboard.pbix    Power BI report file
-├── Churn_Business_Case_Summary.pdf  Short project summary (analysis + recommendations)
 └── README.md
 ```
 
