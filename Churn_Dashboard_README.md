@@ -1,8 +1,8 @@
-# Telecom Customer Churn — Power BI Decision-Making Dashboard
+# Telecom Customer Churn - Power BI Decision-Making Dashboard
 
 An interactive **Power BI** dashboard and decision-making business case that analyses telecom customer churn, identifies the segments most at risk, and quantifies the revenue at stake — turning 7,000+ customer records into clear, actionable retention recommendations.
 
-> Academic group project — *MDS610 Decision-Making Analytics*, Sydney Polytechnic Institute (2026).
+> Academic group project — *Decision-Making Analytics* (2026).
 > **Tech:** `Power BI` · `Excel` · `OLAP` · `data preparation` · `dimensional modelling`
 
 ---
